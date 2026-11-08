@@ -1,2 +1,2 @@
-# ParlemCatal-
-Parlem Catalá sera un videojoc que inciti a utilitzar el catala com una llengua més. Incentivar la parla d’un idioma minoritari.
+# ParlemCatalá
+Parlem Català serà un videojoc educatiu i interactiu que tindrà com a objectiu fomentar l'ús del català en el dia a dia, promovent-lo com una llengua més de comunicació, expressió i socialització. A través de l'experiència de joc, es vol incentivar la pràctica oral del català, especialment entre els més joves, i contribuir a normalitzar-ne l'ús, donant visibilitat i valor a una llengua minoritzada.

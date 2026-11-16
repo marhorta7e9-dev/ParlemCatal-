@@ -36851,3 +36851,5 @@ Received Import Request.
 Start importing Packages/com.unity.visualscripting/Runtime/VisualScripting.Flow/Framework/Control/SelectOnFlow.cs using Guid(1dc7ac191c666468cab1db556cd6fa7c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '633b7ecab6a87fdd98135ca92aaf67e8') in 0.001967167 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+2026-11-16 13:58:22.466 Unity[3117:57518] HIToolbox: received notification of WindowServer event port death.
+2026-11-16 13:58:22.470 Unity[3117:57518] port matched the WindowServer port created in BindCGSToRunLoop

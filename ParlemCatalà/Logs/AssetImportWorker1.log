@@ -36739,3 +36739,5 @@ Received Import Request.
 Start importing Packages/com.unity.visualscripting/Editor/VisualScripting.Flow/Framework/Variables/GetVariableOption.cs using Guid(1561d4aeb753940218eca410856358d5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '40717cf8f649e3a6af1275613999db9f') in 0.00177075 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+2026-11-16 13:58:22.466 Unity[3119:57520] HIToolbox: received notification of WindowServer event port death.
+2026-11-16 13:58:22.469 Unity[3119:57520] port matched the WindowServer port created in BindCGSToRunLoop
